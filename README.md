@@ -18,6 +18,8 @@
 
 ### How to install the Plugin in Touchdesigner
 * Just copy the files inside Plugin_Binary to the Plugins Folder inside Derivative folder in User\Documents
+* Requires wiipair.exe every time you need to pair the Wiimote
+* The wiipair is in the 1-aiipair-executable
 
 ### Future Work
 * Support more Wiimotes
