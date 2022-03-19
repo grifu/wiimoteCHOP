@@ -1,0 +1,2 @@
+C:\Users\grifu\Documents\Touchdesigner\wiimoteCHOP-cleanbase-master\Debug\wiimoteCHOP.dll
+C:\Users\grifu\Documents\Touchdesigner\wiimoteCHOP-cleanbase-master\Debug\wiimoteCHOP.pdb

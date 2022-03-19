@@ -1,0 +1,2 @@
+C:\Users\grifu\Documents\Touchdesigner\wiimoteCHOP-cleanbase-master\Release\wiimoteCHOP.dll
+c:\Users\grifu\Documents\Touchdesigner\wiimoteCHOP-master\Release\wiimoteCHOP.dll
