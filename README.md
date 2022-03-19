@@ -5,6 +5,7 @@
 * Developed by Luis Grifu
 * Based on Hugo Laliberté code from a Touchdesigner workshop
 * https://github.com/lachose1/wiimoteCHOP-cleanbase
+* Implements Wiiuse.c
 
 ### About me
 #### My Website
